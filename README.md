@@ -22,7 +22,4 @@ Projekt Kantoru Wymiany Walut Online jest oparty na następujących technologiac
 
 Przed rozpoczęciem korzystania z aplikacji, upewnij się, że Twój system spełnia następujące wymagania:
 
-- Python (wersja X.X.X)
-- Django (wersja X.X.X)
-- PostgreSQL (wersja X.X.X)
 - Przeglądarka internetowa z włączoną obsługą JavaScript
