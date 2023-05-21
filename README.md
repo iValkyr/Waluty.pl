@@ -15,6 +15,11 @@ Witaj w projekcie Kantoru Wymiany Walut Online! To aplikacja, która umożliwia 
 ## Technologie
 
 Projekt Kantoru Wymiany Walut Online jest oparty na następujących technologiach:
+- Język programowania: JavaScript
+- Backend: Node.js z frameworkiem Express.js
+- Frontend: HTML, CSS, JavaScript
+- Biblioteka do generowania wykresów: Chart.js
+- Szablony widoków: EJS
 
 - HTML, CSS i JavaScript
 
@@ -22,6 +27,7 @@ Projekt Kantoru Wymiany Walut Online jest oparty na następujących technologiac
 
 Przed rozpoczęciem korzystania z aplikacji, upewnij się, że Twój system spełnia następujące wymagania:
 
+- Node.js (wersja X.X.X)
 - Przeglądarka internetowa z włączoną obsługą JavaScript
 
 
