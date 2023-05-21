@@ -23,3 +23,6 @@ Projekt Kantoru Wymiany Walut Online jest oparty na następujących technologiac
 Przed rozpoczęciem korzystania z aplikacji, upewnij się, że Twój system spełnia następujące wymagania:
 
 - Przeglądarka internetowa z włączoną obsługą JavaScript
+
+
+Bardzo dziękujemy za zainteresowanie projektem Kantoru Wymiany Walut Online! Jeśli masz jakiekolwiek pytania, skontaktuj się z nami pod adresem frasiaczki@gmail.com
