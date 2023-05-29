@@ -1,5 +1,5 @@
 <img src="https://github.com/iValkyr/Waluty.pl/assets/132011359/ddfeeee6-6b3e-4597-8c2e-f1dabc4a77a0)](https://media.istockphoto.com/id/1457113022/pl/zdj%C4%99cie/u%C5%9Bmiechni%C4%99ty-m%C5%82ody-biznesmen-pracuj%C4%85cy-w-nowoczesnym-biurze-z-wieloetnicznym-zespo%C5%82em-za.jpg?s=612x612&w=0&k=20&c=e-Ea6EQ7vtKwUclw4jjP3tZv8pnRmp_t9HN_IcsEk-s" width=200% height=50%>
-# O mnie
+## O mnie
 
 Cześć! Jestem Stanisław Januszek. Witaj w moim repozytorium!
 
