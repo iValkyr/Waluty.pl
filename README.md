@@ -1,4 +1,4 @@
-![obraz](https://github.com/iValkyr/Waluty.pl/assets/132011359/f66320c3-991f-442e-af52-ecdb50a46e02)
+![obraz](https://github.com/iValkyr/Waluty.pl/assets/132011359/ddfeeee6-6b3e-4597-8c2e-f1dabc4a77a0)
 # O mnie
 
 Cześć! Jestem Stanisław Januszek. Witaj w moim repozytorium!
