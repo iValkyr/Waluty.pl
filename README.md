@@ -1,34 +1,30 @@
-# Waluty.pl
+![obraz](https://github.com/iValkyr/Waluty.pl/assets/132011359/f66320c3-991f-442e-af52-ecdb50a46e02)
+# O mnie
 
-![image](https://github.com/iValkyr/Waluty.pl/assets/132011359/79626089-3b0e-4a5a-9e5b-28e1615c3302)
+Cześć! Jestem Stanisław Januszek. Witaj w moim repozytorium!
 
-Witaj w projekcie Kantoru Wymiany Walut Online! To aplikacja, która umożliwia użytkownikom wymianę walut w wygodny i intuicyjny sposób.
+## O mnie
 
-## Funkcje
-
-- Przejrzysty interfejs użytkownika umożliwiający łatwe nawigowanie przez proces wymiany walut.
-- Aktualne kursy walut pobierane z wiarygodnych źródeł, zapewniające dokładne i aktualne informacje dla użytkowników.
-- Możliwość dokonywania transakcji wymiany walut w czasie rzeczywistym.
-- Historia transakcji, która pozwala użytkownikom śledzić i sprawdzać swoje wcześniejsze wymiany walut.
-- Obsługa różnych walut, umożliwiająca wymianę między popularnymi walutami na całym świecie.
+Jestem entuzjastą programowania i pasjonuję się tworzeniem oprogramowania. Moje główne obszary zainteresowań to HTML, CSS, JavaScript, PHP, SQL, Python i C++.
 
 ## Technologie
 
-Projekt Kantoru Wymiany Walut Online jest oparty na następujących technologiach:
-- Język programowania: JavaScript
-- Backend: Node.js z frameworkiem Express.js
-- Frontend: HTML, CSS, JavaScript
-- Biblioteka do generowania wykresów: Chart.js
-- Szablony widoków: EJS
+W mojej pracy wykorzystuję różnorodne technologie, takie jak:
 
-- HTML, CSS i JavaScript
-
-## Wymagania systemowe
-
-Przed rozpoczęciem korzystania z aplikacji, upewnij się, że Twój system spełnia następujące wymagania:
-
-- Node.js (wersja X.X.X)
-- Przeglądarka internetowa z włączoną obsługą JavaScript
+    -Języki programowania: HTML, CSS, JavaScript, PHP, Python, C++, SQL
+    -Frameworki i biblioteki:
+       -Frontend:React, Angular
+        -Backend: Node.js, Express.js,
+        -Bazy danych: MySQL, PostgreSQL,
+   -Narzędzia: Git, Visual Studio Code, PyCharm, Sublime Text
 
 
-Bardzo dziękujemy za zainteresowanie projektem Kantoru Wymiany Walut Online! Jeśli masz jakiekolwiek pytania, skontaktuj się z nami pod adresem frasiaczki@gmail.com
+## Kontakt
+Jeśli masz pytania, sugestie lub chciałbyś się skontaktować ze mną w celu współpracy, napisz do mnie na adres e-mail: mail@gmail.com.
+
+## Wkład
+Jestem otwarty na współpracę i wkład innych osób w moje projekty. Jeśli masz pomysł na poprawę lub chciałbyś współtworzyć, zachęcam do kontaktu.
+
+---
+
+Dziękuję za odwiedzenie mojego repozytorium! Zapraszam do eksplorowania moich projektów i skontaktowania się ze mną, jeśli masz jakiekolwiek pytania lub propozycje współpracy.
